@@ -8,6 +8,9 @@ In the first part of the project, you will find the implementation of three clas
 3.	Deque class
 	
 In the second part of the project (Part-2: Applications) there are displayed 3 different applications by implementing the data structures mention above.
+
 A)	Tower of Hanoi
+
 B)	Cars lined up at a car wash
+
 C)	Using deque for a train functionality

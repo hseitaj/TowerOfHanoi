@@ -1,0 +1,10 @@
+Project: Project 1 - SeitajHansi
+Authors: Hansi Seitaj
+Date: 09/22/2021
+
+How to start:
+	Open Stack, Qu, Deque - for part 1 of the project.
+	Part 2: Applications:
+	Open StackTower - for part A) Tower of Hanoi
+	Open Project1 - for part B) 
+	Open DequeApp - for part C) 
